@@ -1,0 +1,1009 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"space-small"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"space",
+				"space-small"
+			],
+			[
+				"rem",
+				"rem-calc"
+			],
+			[
+				"content",
+				"content-area--article"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"hbr",
+				"hbrgray"
+			],
+			[
+				"medium",
+				"medium-gutter-pct"
+			],
+			[
+				"is",
+				"is-centered"
+			],
+			[
+				"Strateg",
+				"strategy"
+			],
+			[
+				"col",
+				"collections"
+			],
+			[
+				"a",
+				"articles"
+			],
+			[
+				"mobile-s",
+				"mobile-size"
+			],
+			[
+				"spa",
+				"space-medium"
+			],
+			[
+				"space-",
+				"space-medium"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"spac",
+				"space-small"
+			],
+			[
+				"sp",
+				"space-small"
+			],
+			[
+				"back",
+				"background	Background"
+			],
+			[
+				"organisms",
+				"organisms-poster"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"so",
+				"sortby-overlay"
+			],
+			[
+				"start",
+				"startCountdown"
+			],
+			[
+				"em",
+				"embedcode"
+			],
+			[
+				"pre",
+				"previous"
+			],
+			[
+				"active",
+				"active-video"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"day",
+				"day_name"
+			],
+			[
+				"gig",
+				"gigyaUserAction"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"current",
+				"currentPlaylist"
+			],
+			[
+				"slider",
+				"sliderPlaylist"
+			],
+			[
+				"flex",
+				"flexslider"
+			],
+			[
+				"playlist",
+				"playlist-overlay"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"data",
+				"data-video-id"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"cu",
+				"currentPlaylist"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"api",
+				"APIModules"
+			],
+			[
+				"GET",
+				"getPlaylist"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"last",
+				"last_location"
+			],
+			[
+				"venue",
+				"venue_location"
+			],
+			[
+				"gameL",
+				"gamesLookUp"
+			],
+			[
+				"ve",
+				"venue_state"
+			],
+			[
+				"venue_",
+				"venue_city"
+			],
+			[
+				"ra",
+				"rangeStart"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"playerD",
+				"jPlayerDiv"
+			],
+			[
+				"W",
+				"width"
+			],
+			[
+				"audio",
+				"audiotitle"
+			],
+			[
+				"share",
+				"shareurl"
+			],
+			[
+				"playerid",
+				"playeridselector"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"element",
+				"element"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"produc",
+				"productslug"
+			],
+			[
+				"pro",
+				"productslug"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"created",
+				"created"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"suzuk",
+				"suzukic01"
+			],
+			[
+				"get_age",
+				"get_age"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"column",
+				"pageLeftColumn"
+			],
+			[
+				"page",
+				"page-container"
+			],
+			[
+				"img",
+				"img"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 2529,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"Pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/09-store/idp-book.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/01-Foundation/01-colors.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/00-meta/_01-foot.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/00-meta/_00-head.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/layout/_helpers.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/02-stream/01-stream-item-with-label.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/ui_patterns/_stream.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/global/_colors.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/14-article-progress-meter.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/ui_patterns/_poster-design.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/_hbr-config.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/ui_patterns/_content-pages.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/typography/_typography.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/04-article/02-article-body-premium.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/04-article/article-related-multi.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_data/_data.json",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/13-webinars/webinar-content-body.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/04-article/02-article-body-short.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-atoms/09-images/06-embed-video-youtube.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-atoms/09-images/06-embed-video.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/03-templates/01-homepage/homepage.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-atoms/09-images/06-embed-video-vimeo.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/layout/_content-area.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/55-featured-card.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/03-card.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/03-home/00-poster-home3.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/03-home/00-poster-home4.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/global/_backdrops.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/03-home/00-poster-home1.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/03-home/00-poster-home2.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/08-topic/poster-topic.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/56-related-items-list.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/10-uxresearch/02-user-testing.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/31-add-to-cart-inline.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/06-registration/company-info.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/global/_helpers.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/global/_visibility.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/14-article-tools.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/09-store/added-to-cart-overlay@inreview.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/10-helpers/01-layout-helpers.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/02-typography/00-headings.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/01-Foundation/03-iconography.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/global/_manifest.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/fonts/fonticon/_icons.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/css/style.css",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/lib/_slick.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/_slick-settings.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/04-grid/01-grid.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/style.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/02-typography/05-tables.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/02-typography/01-body-copy.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/02-typography/06-type-utilities.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/02-typography/03-inline-lists.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/02-typography/02-unordered-lists.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/04-grid/02-sidebar-example.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/00-meta/_pl-footer.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/71-visual-library-item-featured.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/12-visual-library/vl-top-bar.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/12-visual-library/vl-results-header.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/12-visual-library/vl-paywall-body.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/03-templates/12-visual-library/vl-paywall.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/typography/_helpers.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/10-helpers/02-typographic-helpers.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/navigation/_navigation.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/01-Foundation/04-grid.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/70-visual-library-item.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/core/autoReloadServer.php",
+		"/Users/daigo.fujiwara/Sites/git-repos/patternlab-php/core/config/config.ini.default",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/_foundation-settings.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/core/lib/PatternLab/Builder.php",
+		"/Users/daigo.fujiwara/Sites/git-repos/patternlab-php/core/lib/PatternLab/Builder.php",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/core/lib/PatternLab/Configurer.php",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/core/config/config.ini.default",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/01-Foundation/02-typography.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/config/config.ini",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/00-meta/_pl-header.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-guidelines/01-Foundation/00-principles.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-resources/source/js/common.js",
+		"/Users/daigo.fujiwara/Box Sync/hbr-resources/source/bower.json",
+		"/Users/daigo.fujiwara/Sites/git-repos/fixed-sticky/bower.json",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-atoms/09-images/05-icons.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/09-store/added-to-cart-overlay.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/12-visual-library/vl-results-stream.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/12-visual-library/vl-no-results-list.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/72-visual-library-tools.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/12-visual-library/vl-filter-sidebar.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/03-templates/12-visual-library/vl-item.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/03-templates/12-visual-library/vl-landing.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/03-templates/12-visual-library/vl-results.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/global/_html-elements.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/global/_forms.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/layout/_layout.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/12-visual-library/vl-spotlight.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/00-atoms/10-helpers/01-utility-classes.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/global/_print.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/public/styleguide/css/styleguide-specific.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/public/styleguide/css/styleguide-specific.css",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/_shame.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/fonts/fonticon/_path.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/fonts/_national.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/fonts/_guardian.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/73-visual-library-return-to.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/.gitignore",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/ui_patterns/_fixedsticky.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/.gitmodules",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/hbr-fonts.scss",
+		"/etc/apache2/httpd.conf",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/71-vidual-library-item-featured.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/70-vidual-library-item.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/03-templates/09-visual-library/vl-landing.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/04-article/05-content-recirculator.mustache",
+		"/Users/daigo.fujiwara/Box Sync/HBR-WORKFILES/js-invalidation.txt",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/00-global/04-persistent-banner.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/navigation/_header.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/ui_patterns/_audioplayer.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/00-global/00-header.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/05-magazine/mag-item-current-issue.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/15-mag-card-with-dek.mustache",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/scss/navigation/_global-nav.scss",
+		"/Users/daigo.fujiwara/Box Sync/hbr-pattern-lab/www/source/_patterns/02-organisms/00-global/03-flyouts.mustache",
+		"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss/ui_patterns/_content-pages.scss",
+		"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss/_foundation-settings.scss",
+		"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns/00-atoms/09-images/06-embed-video.mustache",
+		"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns/01-molecules/01-components/60-audio-player.mustache",
+		"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss/_hbr-config.scss",
+		"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss/ui_patterns/_poster-design.scss",
+		"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns/00-atoms/01-global/00-colors.mustache",
+		"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss/global/_backdrops.scss"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss",
+			"",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss,/Users/daigo.fujiwara/hbr-pattern-lab",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns/02-organisms/03-home",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss/fonts/fonticon",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns,/Users/daigo.fujiwara/hbr-pattern-lab/bower_components/foundation/scss",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns",
+			"/Users/daigo.fujiwara/hbr-pattern-lab/www/source/scss,/Users/daigo.fujiwara/hbr-pattern-lab/www/source/_patterns",
+			"/Users/daigo.fujiwara/Sites/hbr-pattern-lab/www/source/_patterns,/Users/daigo.fujiwara/Sites/hbr-pattern-lab/www/source/scss",
+			"/Users/daigo.fujiwara/Sites/hbr-pattern-lab/www/source/_patterns",
+			"<open files>,/Users/daigo.fujiwara/Sites/hbr-pattern-lab/www/source/scss",
+			"<open files>",
+			"/Users/daigo.fujiwara/Sites/git-repos/hbr-pattern-lab/www/source/scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".absolute-bottom",
+			"http://blogs.hbr.org/2014/04/why-you-have-to-generate-your-own-data/",
+			"stream-image",
+			"hr",
+			"nudge",
+			"lighter-info-color",
+			"product",
+			"article-related-multi",
+			"wp-",
+			"youtube",
+			"vimeo",
+			" style=\"line-height: 1.6em;\"",
+			"San Diego Padres",
+			"stream-entry",
+			".backdrop-transparent-black",
+			"poster--home",
+			"molecules-featured-card",
+			"molecules-card",
+			"components/card",
+			"03-card",
+			"${(entry.content",
+			"name",
+			"paragraph-fon",
+			"0787b1",
+			"\n-",
+			" \n\n",
+			"show-for",
+			"has-border",
+			"medium-up",
+			"organize",
+			"icon-organize",
+			"sg-icons",
+			"li class=\"sg-swatch\"",
+			"ajax",
+			"/\";\n",
+			"span",
+			"src",
+			"filter-list",
+			"filter list",
+			".filter",
+			" class=\"mhm\"",
+			"mhm",
+			"artwork-narrow",
+			"article",
+			".product-text",
+			"product-text",
+			"navigation-header",
+			"section-header",
+			"baseline-shift",
+			".filter-crumbs",
+			"atoms-pl",
+			"4",
+			"patternHeadPath",
+			"$metaFolderPath",
+			"$this->sp",
+			"\"00-atoms/00-meta/\"",
+			"print_r",
+			"parse_ini",
+			"parse",
+			"parse_ini_file",
+			"00-meta",
+			"meta",
+			"ishMinimum",
+			"ishMim",
+			"00-meta",
+			"00_meta",
+			"stream-three-right",
+			"visual-library-entry",
+			"visual-library",
+			"added to cart",
+			".icon-",
+			"icon-",
+			"\n}\n}",
+			"}\n}",
+			"@media print {",
+			"sticky",
+			" | ",
+			"		No Game	Home",
+			"product-hed",
+			"border",
+			"checkbox",
+			".mb-large",
+			".mt-large",
+			"6",
+			"h1",
+			"filter-crumbs",
+			"li",
+			"filter-crumb",
+			"space-medium*1.6",
+			"$space-medium*1.6",
+			"mag-search-form",
+			"font_url('#{$font-path}",
+			"font_url('/resources/fonts/",
+			"font_url('",
+			"font_url",
+			"font-url",
+			"fixedsticky",
+			"				\"search-id\": \"\"",
+			"				\"hide\": \"\",\n				\"value\": \"1\",\n",
+			"class=\"{{hide}}\"",
+			";",
+			"\"",
+			"small",
+			"mts mbm",
+			"mbn",
+			"entry-product",
+			"featured-item",
+			"entry",
+			"stream-list",
+			"search",
+			"large",
+			"large-left",
+			"search-stream",
+			"h4",
+			".html ",
+			"js ",
+			".question",
+			"				data-id=\"{{ entry.id }}\" \n				data-title=\"{{ entry.title }}\" \n				data-url=\"{{ entry.content.src }}\" \n				data-topic=\"{{ entry.category.term }}\" \n				data-image=\"{{ entry.featureImageUri }}\"\n				data-summary=\"{{ entry.summary }}\"\n				data-authors=\"{{ entry.author.name }}\" \n				data-content-type=\"{{ entry.contentType }}\">\n\n				<h5 class=\"hed\"><a href=\"{{ entry.content.src }}\">{{ entry.title }}</a></h5>\n				<div class=\"stream-item-info\">\n					<span class=\"topic\"><a href=\"/topic/{{ entry.category.term }}\">{{ entry.category.term }}</a></span> <span class=\"content-type\">{{ entry.contentType }}</span> \n					<!-- author could be none, one or many -->\n					<ul class=\"byline byline-list\">{{# entry.author }}<li>{{ name }}</li>{{/ entry.author }}</ul>\n				</div>\n				<!-- utility -->\n				<ul class=\"stream-utility\">\n					<li class=\"utility util-save\"><a href=\"#\" js-target=\"save-flyout\"><i class=\"icon icon-file-text-o\"></i> Save</a></li>\n					<li class=\"utility util-share\"><a href=\"#\" js-target=\"share-flyout\"><i class=\"icon icon-share-square-o\"></i> Share</a></li>\n				</ul>\n			</stream-item>",
+			"{{> molecules-card }}",
+			"section-label bottom-aligned-header",
+			"panel ",
+			"</h4>",
+			"<h4 class=\"section-label\">",
+			"cart-contents",
+			"p",
+			"dek",
+			"dpi",
+			"login-form-form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"guidelines-pl",
+			"url('#{$font-path}",
+			"font_url('#{$font-path}",
+			"js-target=\"item-quantity\"",
+			"card",
+			"{{# entry.author }}<li>{{ name }}</li>{{/ entry.author }}",
+			"	<div class=\"stream-image\">\n		<figure>\n			<a href=\"{{ entry.content.src }}\"><img src=\"{{ entry.featureImageUri }}\" alt=\"\" /></a>\n		</figure>\n	</div>",
+			"<div class=\"stream-image\">\n	<figure class=\"stream-image\">\n			<a href=\"{{ entry.content.src }}\"><img src=\"{{ entry.featureImageUri }}\" alt=\"\" /></a>\n		</figure>\n</div>",
+			"{{# entry.author.name }}<li>{{ name }}</li>{{/ entry.author.name }}",
+			"",
+			"<li class=\"utility util-pubdate pubdate\"><time>April 23, 2014<!-- {{ moment(entry.published).format(\"MMMM DD, YYYY\") }} --></time></li>",
+			"<li class=\"utility util-pubdate pubdate\"><time>April 23, 2014<!-- {{ moment(entry-product.published).format(\"MMMM DD, YYYY\") }} --></time></li>",
+			"		{{> molecules-add-to-cart }}\n",
+			"<i class=\"icon icon-load-more\"></i>",
+			"<i class=\"icon icon-unfollow-this\"></i>",
+			"<i class=\"icon icon-follow-this\"></i>",
+			"rem-calc(33)",
+			"data-item-selctable",
+			"stream-",
+			"follow-this",
+			"\\r",
+			"../fonts/",
+			"",
+			",",
+			"\n							",
+			"</li>\\r\\r<li",
+			"</li><li",
+			"</li>\\r\\t\\t\\t<li",
+			"<code style=\"color:#999;text-align:right\">",
+			"p",
+			"<code style=\"color:#999\">",
+			"<blockquote style=\"font-style:normal;",
+			"<code>color:",
+			"alt=\"\"",
+			"getTravelLi(\"from\",\"to\")",
+			"\",\"",
+			"src=\"img",
+			"\"",
+			"\"../third-party",
+			"\"../assets",
+			"\\r{",
+			"hbrg-main/resources/images/mobile/low/caret.png",
+			",",
+			", null,",
+			"jp",
+			"hbr-audio-",
+			"&rsquo;",
+			"{\"y\":",
+			"\"x\"",
+			"vs. ",
+			"h3",
+			"@",
+			"\\t",
+			"=",
+			" ",
+			"=",
+			" \\t",
+			" ",
+			"",
+			".",
+			"!",
+			"}",
+			"{",
+			"=",
+			"\"",
+			" =",
+			" ",
+			"=",
+			"\\r",
+			"\\r\\r\\r\\r\\r",
+			"\\r",
+			"",
+			"font-size: 12px;",
+			"font-size: 13px;",
+			"font-size: 11px;",
+			"font-size: 14px;",
+			"font-size: 15px;",
+			"font-size: 16px;",
+			"font-size: 17px;",
+			"",
+			"width:580px;",
+			"580px",
+			"../../../../",
+			"",
+			"gray",
+			"'#",
+			"', '",
+			",",
+			"#",
+			"assets/",
+			"",
+			"</li>",
+			"<li>",
+			" class=\"float-image-left\"",
+			"6ec4de",
+			"デ",
+			"ボ",
+			"プ",
+			"6ec4de",
+			"\">",
+			"href=\"http://www.jmag.com/",
+			"\\r",
+			"src=\"/hbrg-main/resources/html/infographics/2013/01/vs/images",
+			"src=\"/hbrg-main/resources/html/infographics/2013/01/vs/images/",
+			"Japanese Americans",
+			"href=\"http://www.kickstarter.com/projects/imamag/free-japanese-english-bilingual-magazine-in-boston-0\"",
+			"<em>ima</em>",
+			"<em>ima magazine</em>",
+			"\"color-btn orange\"",
+			"ff0000",
+			"ff1100",
+			"Raleway",
+			"src=\"http://static.hbr.org/",
+			"href=\"http://static.hbr.org/",
+			"src=\"http://static.hbr.org/",
+			"href=\"http://static.hbr.org/",
+			"IMA Magazine",
+			"src/insight-img.png",
+			"=\"http://qa.hbr.org/",
+			"<a href",
+			""
+		],
+		"reverse": true,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.md",
+					"settings":
+					{
+						"buffer_size": 2529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 382.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"scss/ui_patterns/_poster-design.scss"
+			],
+			[
+				"http",
+				"/Users/daigo.fujiwara/Sites/WebDevResources/907-one-page-theme 2/main-files/defaultSlider/just-portfolio.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/daigo.fujiwara/Sites/misc/BrooksBaseball.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true
+}
