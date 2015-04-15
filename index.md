@@ -9,29 +9,38 @@ keywords: github pages, Jekyll, foundation 5
 
 <ol>
 	<li>
-		<h2>Step 1</h2>
-		<p>What is the name of your chart?</p>
+		<h2>Title</h2>
 		<div class="row">
 			<div class="large-12 columns">
-				<label>Input Label</label>
-				<input type="text" placeholder="large-12.columns">
+				<label>What is the name of your chart?</label>
+				<input type="text" placeholder="Name your chart">
 				</div>
 		</div>
 	</li>
 
 	<li>
-		<h2>Step 2</h2>
-		<p></p>
+		<h2>Type</h2>
 		<div class="row">
+			
 			<div class="large-12 columns">
-				<label>Input Label</label>
-				<input type="text" placeholder="large-12.columns">
+				<!-- Using radio buttons – each switch turns off the other two -->
+				<div class="switch small">
+					<input id="typeradio1" type="radio" checked name="charttype">
+					<label for="typeradio1"></label> Horizontal Bar
+				</div> 
+
+				<div class="switch small">
+					<input id="typeradio2" type="radio" name="charttype">
+					<label for="typeradio2"></label> Vertical Bar
+				</div> 
+
+				<div class="switch small">
+					<input id="typeradio3" type="radio" name="charttype">
+					<label for="typeradio3"></label> Fever
 				</div>
+
+			</div>
 		</div>
 	</li>
+</ol>
 
-
-<div class="thanks">
-	Inspirations: 
-	<a href="https://github.com/shancarter/Mr-Data-Converter">Mr. Data Converter</a>, Chartist.js, <a href="https://github.com/pazzypunk/interactive_charts_for_dummies">My old hackathon submission from 2011</a>
-</div>
